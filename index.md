@@ -1,17 +1,17 @@
 
 ## ABOUT ME
-- NAME: Lei Xu 
-- Github :https://github.com/HelloXXLL 
+- NAME : Lei Xu 
+- GITHUB :https://github.com/HelloXXLL 
 - TARGET:
 
-  1.deep learning & machine learning.
+  - deep learning & machine learning.
   
-  2.skilled coding.   
+  - skilled coding.   
   
-  3.Become a giant in action.  
+  - Become a giant in action.  
   
-  4.Visionary.   
-  :)
+  - Visionary.   
+  - :)
 
 
 ```python
