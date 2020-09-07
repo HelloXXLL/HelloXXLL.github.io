@@ -3,11 +3,15 @@
 - NAME: Lei Xu 
 - Github :https://github.com/HelloXXLL 
 - TARGET:
-deep learning ,machine learning. 
-skilled coding.
-Become a giant in action. 
-Visionary.  
-:)
+
+  1.deep learning & machine learning.
+  
+  2.skilled coding.   
+  
+  3.Become a giant in action.  
+  
+  4.Visionary.   
+  :)
 
 
 ```python
