@@ -3,6 +3,11 @@
 You can use the [editor on GitHub](https://github.com/HelloXXLL/xulei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人信息
+- Lei Xu 
+- 本科/HDU 
+- Github :https://github.com/HelloXXLL 
+- 目标: 深度学习，机器学习正式入门，熟练使用Python ，习惯使用Github ,希望成为行动上的巨人，慢慢开阔自己的眼界:)
 
 ### Markdown
 
